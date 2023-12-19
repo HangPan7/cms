@@ -1,0 +1,2 @@
+com.xs.sw.veh.framework.quartz.config.VehiasQuartzAutoConfiguration
+com.xs.sw.veh.framework.quartz.config.VehiasAsyncAutoConfiguration

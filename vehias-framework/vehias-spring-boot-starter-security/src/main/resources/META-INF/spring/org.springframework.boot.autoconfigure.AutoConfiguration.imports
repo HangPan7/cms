@@ -1,0 +1,2 @@
+com.xs.sw.veh.framework.security.config.VehiasSecurityAutoConfiguration
+com.xs.sw.veh.framework.security.config.VehiasWebSecurityConfigurerAdapter

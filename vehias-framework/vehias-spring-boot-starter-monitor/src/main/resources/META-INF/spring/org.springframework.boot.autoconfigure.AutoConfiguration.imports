@@ -1,0 +1,2 @@
+com.xs.sw.veh.framework.tracer.config.VehiasTracerAutoConfiguration
+com.xs.sw.veh.framework.tracer.config.VehiasMetricsAutoConfiguration

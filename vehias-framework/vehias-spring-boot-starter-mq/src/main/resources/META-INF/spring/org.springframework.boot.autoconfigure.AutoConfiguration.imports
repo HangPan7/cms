@@ -1,0 +1,3 @@
+com.xs.sw.veh.framework.mq.redis.config.VehiasRedisMQProducerAutoConfiguration
+com.xs.sw.veh.framework.mq.redis.config.VehiasRedisMQConsumerAutoConfiguration
+com.xs.sw.veh.framework.mq.rabbitmq.config.VehiasRabbitMQAutoConfiguration

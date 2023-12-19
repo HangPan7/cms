@@ -1,0 +1,2 @@
+com.xs.sw.veh.framework.idempotent.config.VehiasIdempotentConfiguration
+com.xs.sw.veh.framework.lock4j.config.VehiasLock4jConfiguration

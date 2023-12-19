@@ -1,0 +1,5 @@
+com.xs.sw.veh.framework.apilog.config.VehiasApiLogAutoConfiguration
+com.xs.sw.veh.framework.jackson.config.VehiasJacksonAutoConfiguration
+com.xs.sw.veh.framework.swagger.config.VehiasSwaggerAutoConfiguration
+com.xs.sw.veh.framework.web.config.VehiasWebAutoConfiguration
+com.xs.sw.veh.framework.xss.config.VehiasXssAutoConfiguration

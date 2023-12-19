@@ -1,0 +1,2 @@
+com.xs.sw.veh.framework.datasource.config.VehiasDataSourceAutoConfiguration
+com.xs.sw.veh.framework.mybatis.config.VehiasMybatisAutoConfiguration
